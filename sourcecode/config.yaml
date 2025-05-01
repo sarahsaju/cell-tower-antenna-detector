@@ -1,0 +1,7 @@
+path: D:/sarah/antennadetector/annotateddatawithlabels
+
+train: images/train
+val: images/validate
+
+names:
+  0: antenna
